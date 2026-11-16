@@ -1,0 +1,24 @@
+button{
+    margin: 30px;
+    align-content: center;
+    background-color:sandybrown;
+color: white;
+width:300px;
+border-radius: 20px;
+border-color: sandybrown;
+margin-left: 300px;
+ cursor: pointer; 
+}
+h1{
+    text-align: center;
+    text-decoration: orange underline;
+
+}
+h3{
+     text-align: center;
+}
+label{
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: bold;
+}
